@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Vivek13130.
-- 👀 I’m interested in Trading.
-- 🌱 I’m currently learning coding.
-- 💞️ I’m looking to collaborate on AI programs for trading, once i am capable of.
-- 📫 How to reach me ...telegram username-->@MrMaverickk
+- 👀 I’m interested in DSA, CP, p5.js, Blender, Front-end web development.
+- 🌱 I’m currently learning C++, JS and Blender in free time.
+- 💞️ I’m looking to collaborate on any creative project of web dev or simulations or digital arts in p5.js.
+- 📫 How to reach me ... instagram @vivek28426
 
 <!---
 Vivek13130/Vivek13130 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
