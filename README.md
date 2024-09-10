@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Vivek
-- 👀 I’m interested in DSA, CP, p5.js, Blender, Front-end web development.
-- 🌱 I’m currently learning C++, CSS, JS and Blender in free time.
-- 💞️ I’m looking to collaborate on any creative project of web dev or simulations or digital arts in p5.js.
+- 👀 I’m interested in DSA, CP, GODOT, Front-end web development.
+- 🌱 I’m currently learning C++, CSS, JS and GODOT in free time.
+- 💞️ I’m looking to collaborate on any creative project of web dev or simulations or digital arts using GODOT.
+- 👨🏻‍💻 Currently working on 2D Evolutionary Particle Life Simulation.
 - 📫 How to reach me ... instagram @vivek28426 / vivekzoyakadian@gmail.com 
 
 <!---
