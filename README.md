@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Vivek
-- 👀 I’m interested in DSA, CP, GODOT, Web development.
-- 🌱 I’m currently learning C++, JS and GODOT in free time.
-- 💞️ I’m looking to collaborate on any creative project of web dev or simulations or digital arts using GODOT.
-- 👨🏻‍💻 Currently working on 2D Evolutionary Particle Life Simulation.
+- 👀 I’m interested in DSA, GODOT, Game-development (2D).
+- 🌱 I’m currently learning C++, Software Architecture Design, Project management, Shaders, Data handling(JSON) and GODOT in free time.
+- 💞️ I’m looking to collaborate on any creative project of simulations or digital arts or games using GODOT.
+- 👨🏻‍💻 Currently working on 'Last Paycheck'.
 - 📫 How to reach me ... instagram @vivek28426 / vivekzoyakadian@gmail.com 
 
 <!---
